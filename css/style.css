@@ -1,6 +1,6 @@
 body {
 	font-size: 14px;
-	text-align: 18px;
+	line-height: 24px;
 	color: #000000;
 	font-weight: bold;
 	font-family: "PTSans";
@@ -8,11 +8,11 @@ body {
 
 h1 {
 	font-size: 30px;
-	text-align: 42px;
+	line-height: 42px;
 }
 
 h2 {
 	font-size: 24px;
-	text-align: 30px;
+	line-height: 30px;
 }
 
