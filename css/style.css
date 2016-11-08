@@ -3,7 +3,10 @@ body {
 	line-height: 24px;
 	color: #000000;
 	font-weight: bold;
-	font-family: "PTSans";
+	font-family: "PT Sans Narrow";
+	/*background-image: url(../img/topmenu.jpg);*/
+	width: 1200px ;
+	text-transform: uppercase;
 }
 
 h1 {
@@ -15,4 +18,61 @@ h2 {
 	font-size: 24px;
 	line-height: 30px;
 }
+
+
+.container {
+	width: 940px;
+	margin: 0 auto;
+	border: 5px solid red;
+	padding: 0 10px;
+}
+
+/*header*/
+
+.main-header {
+	/*background-color: black*/;
+	color: white;
+	width: 940px;
+	min-height: 70px;
+	display: flex;
+	
+}
+
+.main_container {
+	display: flex;
+	align-items: center;
+}
+
+
+.logo {
+	margin-left: 10px;
+}
+
+.main_navigator {
+	width: 780px;
+	font-size: 14px;
+	display: flex;
+	justify-content: flex-start;
+
+
+}
+
+.main_navigator ul {
+	display: flex;
+
+
+}
+
+.user_block {
+	width: 140px;
+	margin-right: auto;
+}
+
+.main_navigator a {
+	margin: 20px;
+	border: 5px solid black;
+
+
+}
+
 
