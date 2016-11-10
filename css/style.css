@@ -150,3 +150,16 @@ h2 {
 	float: right;
 	width: 180px;
 }
+
+/* Страница с предметом */
+
+.item_img_galary {
+	float: left;
+	width: 455px;
+	margin-right: 70px;
+}
+
+.about_item {
+	float: right;
+	width: 390px;
+}
